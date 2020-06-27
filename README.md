@@ -16,6 +16,7 @@ This project is maintained by
 - Ye Qin
 - Sean
 - Cesare Corazza
+- Calum Wheaton
 
 As part of CS493 and CS494, a final year project course at Waterloo.
 
